@@ -7,8 +7,13 @@ This repository documents a **working method to achieve authenticated Remote Cod
 ---
 ## Usage
 
-modify the url="<target-url>" with the valid url
-add the admin username and admin password at 
+modify 
+```
+url = "<target-url>"
+```
+with the valid url
+
+add the admin username and password at 
 
  ```
 login_data = {
