@@ -1,4 +1,4 @@
-# Online Book Store 1.0 – Authenticated RCE (Notes)
+# Online Book Store 1.0 – Authenticated RCE 
 
 ## Purpose
 
