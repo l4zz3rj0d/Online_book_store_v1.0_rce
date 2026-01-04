@@ -5,6 +5,18 @@
 This repository documents a **working method to achieve authenticated Remote Code Execution (RCE)** in the *Online Book Store Project in PHP (v1.0)*. These notes are intended for **future reference in CTFs, labs, or revision**, not as a full write-up.
 
 ---
+## Usage
+
+modify the url="<target-url>" with the valid url
+add the admin username and admin password at 
+
+ ```
+login_data = {
+    "username": "admin",
+    "password": "admin",
+    "login": "1"
+}
+```
 
 ## High-Level Working
 
